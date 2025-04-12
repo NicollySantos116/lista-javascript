@@ -25,20 +25,4 @@ case 7:
      default:
      console.log("Dia inválido");
         
-        
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
